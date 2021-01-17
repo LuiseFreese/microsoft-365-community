@@ -118,7 +118,7 @@ People abuse tools, work around disfunctional processes, communication patterns 
 
 * Level 3: Structure- What is influencing these patterns? 
 
-Typical organizations look like a pyramide, with a  few decision-makers at the top (leadership) and the rest of the workforce at the bottom, which is a result from the approach to design companies like military institutions with a defined chain of command and with compartmentalized structures. This led to departments, which don't communicate well and are now rather information silos. The given structure leads to processes, that make sure that this structure stays as it is - which conflicts directly with the need to convert from privacy to transparency, from planning to experimentation and from controlling to empowering. But segmentation of organization is not only an issue across departments (horizontically), but also in in hierarchy (vertically), which leads us to another iceberg, that is responsible for a lack of understanding of problems of workforce by leadership: 
+Typical organizations look like a pyramide, with a few decision-makers at the top (leadership) and the rest of the workforce at the bottom, which is a result from the approach to design companies like military institutions with a defined chain of command and with compartmentalized structures. This led to departments, which don't communicate well and are now rather information silos. The given structure leads to processes, that make sure that this structure stays as it is - which conflicts directly with the need to convert from privacy to transparency, from planning to experimentation and from controlling to empowering. But segmentation of organization is not only an issue across departments (horizontically), but also in hierarchy (vertically), which leads us to another iceberg, that is responsible for a lack of understanding of problems of workforce by leadership: 
 
 ![iceberg of ignorance](https://github.com/LuiseFreese/blog/blob/main/media/icebergignorance.jpg)
 
@@ -126,7 +126,7 @@ Leadership, who doesn't understand issues and a workforce, that can not regularl
  
 * Level 4 Mental Models
 
-Let's have a look which collective believes in our culture (which is then only reflected in corporate cultures and way to often reduced to "individual mindset": What do we people believe in, that they design organizations like this? Of course, redesigning takes a huge amount of energy (and money) and surely it is easier to keep the status quo than to change. But why is this status quo, this broken system tsill om place? Because we (or at least enough of us in key posistions) believe in "knowledge is power" instead of "Sharing is Caring". The "command and control" approach looks as if it also provides security and predictibility, and although we already know better, we stick to this *ego system* instead of an *eco system*. 
+Let's have a look which collective believes in our culture (which is then only reflected in corporate cultures and way to often reduced to "individual mindset"): What do the people believe in, that they design organizations like this? Of course, redesigning takes a huge amount of energy (and money) and surely it is easier to keep the status quo than to change. But why is this status quo, this broken system still in place? Because we (or at least enough of us in key posistions) believe in "knowledge is power" instead of "Sharing is Caring". The "command and control" approach looks as if it also provides security and predictibility, and although we already know better, we stick to this *ego system* instead of an *eco system*. 
 
 What can we now do about it? Make people aware of the broken system that doesn't meet our needs anymore and that forces people into workarounds, unhealthy work ethics and poor connection to their organization. Stop trying to fix users when we need to fix this system. 
 
@@ -139,19 +139,19 @@ To give you a little guidance, we will turn the iceberg upside down and start at
 
 * Level 4: Mental Model
 
-Our core beliefs are a representation of the Sharing is caring - mindset. We don't compete against each other, but value and listen to every voice. We are convinced, that we can face challenges better together and that Learning, experimenting and sharing failure and success is important. 
+Our core beliefs are a representation of the Sharing is caring - mindset. We don't compete against each other, but value and listen to every voice. We are convinced, that we can face challenges better together and that learning, experimenting and sharing failure and success is important. 
 
 * Level 3: Structures
 
-This will automatically lead to organizations which enable work in cross functional teams, facilitate open communities so that people can connect beyond their filter bubble (which makes serendiptous coincidences possioble), support tools that foster collaboration and processes that work towards a common understanding and shared vision of organizational purpose. 
+This will automatically lead to organizations which enable work in cross functional teams, facilitate open communities so that people can connect beyond their filter bubble (which makes serendiptous coincidences possioble), support tools that foster collaboration and processes that work towards a common understanding and a shared vision of organizational purpose. 
 
 * Level 2: Patterns and Trends
 
- With this background, people will don't abuse tools anymore and don't need to work around processes anymore. They notice, that work actually works and find a good rythm of collaboration, connecting and focused work.  
+With this background, people won't abuse tools and don't need to work around processes anymore. They notice, that work actually works and find a good rythm of collaboration, connecting and focused work.  
 
 * Level 1: Events
 
-This over time leads to a healthy understanding of productivity with some very beneficial implications: Awareness of mental load, sovereignity of priorities, Connectiveness in the broader organization. As a result, we can see that people make good use of their time and do not need to face obstacles that are usually in the way. 
+This over time leads to a healthy understanding of productivity with some very beneficial implications: awareness of mental load, sovereignity of priorities, connectiveness in the broader organization. As a result, we can see that people make good use of their time and do not need to face obstacles that are usually in the way. 
 
 ## How do we change? 
 
@@ -159,7 +159,7 @@ The million dollar question now is, what needs to be done at Level 4 so that we 
 
 ### corporate culture - mental model
 
-Rather than stating, that people need to have the *right* mindset, we will need to focus on organizational change, which means that it is not sufficient to write down some fancy leadership principles, but to actually work on which behavior we show. At the end of the day, people don't do what we tell them to do, but we show them. It is time to consciously reflect on corporate values an how there are filled with life in the organization. As an example: You can *tell* that you have a good culture of being allowed to make mistakes, but if everyone is cc-ing everyone massively to share responsibility / cover themselves, then it is very clear, that the good culture only existed on paper. Therefore we will need to question ourselves about our values and how they resonate for employees, partners, customers. Without doing this heavy lifting, all approaches to roll out tools, to do champions programs, use case shopping and enduser training will only scratch the surface and come to nothing or won't stay sustainibly, which means that we will see perhaps some quick wins, but no long term change. 
+Rather than stating, that people need to have the *right* mindset, we will need to focus on organizational change, which means that it is not sufficient to write down some fancy leadership principles, but to actually work on which behavior we show. At the end of the day, people don't do what we tell them to do, but what we show them. It is time to consciously reflect on corporate values and how they are filled with life in the organization. As an example: You can *tell* that you have a good culture of being allowed to make mistakes, but if everyone is cc-ing everyone massively to share responsibility / cover themselves, then it is very clear, that the good culture only exists on paper. Therefore we will need to question ourselves about our values and how they resonate for employees, partners and customers. Without doing this heavy lifting, all approaches to roll out tools, to do champions programs, use case shopping and enduser training will only scratch the surface and come to nothing or won't stay sustainibly, which means that we will see perhaps some quick wins, but no long term change. 
 
 Some questions to ask could be: 
 
@@ -184,7 +184,7 @@ Patterns and trends we can observe once we ensured to work towards a structure t
 * Servant and shared leadership will result in employees feeling more included into decision making processes and taking responsility
 * Embracing diversity leads to better products
 * Breaking down information silos will lead to serendiptious connections
-* a #LearnItAll mindset will grant future readiness
+* a *LearnItAll* mindset will grant future readiness
 * democratizing access to corporate assets (knowledge, tools, roles) will impact how people feel about their employer
 * respectful clima towards everyone results in consciousness and thoughfulness
 
