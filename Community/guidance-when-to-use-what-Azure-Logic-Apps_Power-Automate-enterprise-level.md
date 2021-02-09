@@ -8,3 +8,6 @@
 * connectors exposed to makers on Power Platform guide makers into the wrong way (SAP connector means, this is most likely not a personal productivity improvement, but a mission critical business process)
 * Power Automate flows can have huge impact but also there are downsides (run history data only available 28 days, runs in user's context etc.), which makes it unsuitable for enterprise scale solutions
 * Power Automate is more a gateway drug to foster citizen development, mvp approach, POC
+* it takes more than just the ability to code to have a sustainable solution. 
+* people confuse "low code" with "low effort" 
+
